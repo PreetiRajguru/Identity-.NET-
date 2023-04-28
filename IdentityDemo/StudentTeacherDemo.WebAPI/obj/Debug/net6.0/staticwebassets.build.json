@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CztmivzTtSwbQV1uu+Bu2iV/lwTvPXPwbZQPad+hefc=",
+  "Source": "StudentTeacherDemo.WebAPI",
+  "BasePath": "_content/StudentTeacherDemo.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

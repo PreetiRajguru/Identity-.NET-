@@ -1,0 +1,17 @@
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\bin\Debug\net6.0\StudentTeacherDemo.Services.deps.json
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\bin\Debug\net6.0\StudentTeacherDemo.Services.runtimeconfig.json
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\bin\Debug\net6.0\StudentTeacherDemo.Services.dll
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\bin\Debug\net6.0\StudentTeacherDemo.Services.pdb
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\bin\Debug\net6.0\StudentTeacherDemo.Data.dll
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\bin\Debug\net6.0\StudentTeacherDemo.Data.pdb
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.csproj.AssemblyReference.cache
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.AssemblyInfoInputs.cache
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.AssemblyInfo.cs
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.csproj.CoreCompileInputs.cache
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.csproj.CopyComplete
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.dll
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\refint\StudentTeacherDemo.Services.dll
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.pdb
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\StudentTeacherDemo.Services.genruntimeconfig.cache
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Repo\obj\Debug\net6.0\ref\StudentTeacherDemo.Services.dll

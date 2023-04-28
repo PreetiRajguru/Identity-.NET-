@@ -1,0 +1,14 @@
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\bin\Debug\net6.0\StudentTeacherDemo.Core.deps.json
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\bin\Debug\net6.0\StudentTeacherDemo.Core.runtimeconfig.json
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\bin\Debug\net6.0\StudentTeacherDemo.Core.dll
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\bin\Debug\net6.0\StudentTeacherDemo.Core.pdb
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\StudentTeacherDemo.Core.csproj.AssemblyReference.cache
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\StudentTeacherDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\StudentTeacherDemo.Core.AssemblyInfoInputs.cache
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\StudentTeacherDemo.Core.AssemblyInfo.cs
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\StudentTeacherDemo.Core.csproj.CoreCompileInputs.cache
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\StudentTeacherDemo.Core.dll
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\refint\StudentTeacherDemo.Core.dll
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\StudentTeacherDemo.Core.pdb
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\StudentTeacherDemo.Core.genruntimeconfig.cache
+D:\Preeti\.Net(Identity)\IdentityDemo\StudentTeacherDemo.Core\obj\Debug\net6.0\ref\StudentTeacherDemo.Core.dll
